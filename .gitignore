@@ -1,0 +1,5 @@
+
+# Claude Code / Codex per-machine files: allowed commands collect passwords and keys in them. Never commit.
+.claude/settings.local.json
+.claude/*.local.*
+.claude.json
